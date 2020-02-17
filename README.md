@@ -4,16 +4,13 @@ Simple PyQt5 project for Human Computer Interaction course. It consists in a `.j
 This program allows you to:
 
 - **Visualize** all images in the same `.py` directory and switch previous/next image in the list.
-
 - **Get** all _exif_ informations in a table.
-
 - **Rotate** images.
-
 - **Open** image _geolocalization_ with Google Maps API Url.
 
 <div>
 <p align="center">
-<img src="screen.png" width=auto height=180px></img>
+<img src="screen.png" width=auto height=480px></img>
 </p>
 <div/>
 
