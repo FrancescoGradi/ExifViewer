@@ -27,4 +27,4 @@ framework, probably.
 
 ### Report
 A copy of the report (italian) can be found 
-<a href="https://github.com/FrancescoGradi/ExifViewer/blob/master/documents/report.pdf" download="report.pdf">here</a>.
+<a href="https://github.com/FrancescoGradi/ExifViewer/blob/master/documents/report.pdf">here</a>.
