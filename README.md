@@ -10,7 +10,7 @@ This program allows you to:
 
 <div>
 <p align="center">
-<img src="screen.png" width=auto height=480px></img>
+<img src="/documents/screen.png" width=auto height=480px></img>
 </p>
 <div/>
 
@@ -24,3 +24,7 @@ Put images in the directory and run `exifReader.py`.
 
 This code was tested with Ubuntu 19.10 and Mac OS 10.15.3. It presents some lags with Mac operative systems due to PyQt 
 framework, probably.
+
+### Report
+A copy of the report (italian) can be found 
+<a href="https://github.com/FrancescoGradi/ExifViewer/documents/report.pdf" download="report.pdf">here</a>.
